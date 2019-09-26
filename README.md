@@ -1,4 +1,4 @@
-# sample-blog-
-Sample blog with database
+# simple-blog-
+Simple blog with database
 
-This blog project was started to develop my backend server skills. 
+This blog project was started to develop my backend server skills.  
